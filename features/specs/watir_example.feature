@@ -1,4 +1,4 @@
-Feature: Hello World
+Feature: Watir Example
 
     Scenario: Fill the form
         Given I am on WatirExamplePage

@@ -4,4 +4,4 @@ gem 'cucumber'
 gem 'rspec'
 gem 'rake'
 gem 'page-object'
-gem 'rubocop'
+gem 'rubocop', require: false

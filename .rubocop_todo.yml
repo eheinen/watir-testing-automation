@@ -1,0 +1,19 @@
+Style/Encoding:
+  Exclude:
+    - 'Gemfile'
+    - 'Rakefile'
+    - 'features/step_definitions/**.rb'
+    - 'features/support/**.rb'
+    - 'features/support/pages/**.rb'
+
+Style/FrozenStringLiteralComment:
+  Exclude:
+    - 'Gemfile'
+    - 'Rakefile'
+    - 'features/step_definitions/**.rb'
+    - 'features/support/**.rb'
+    - 'features/support/pages/**.rb'
+
+Style/RedundantSelf:
+  Exclude:
+    - 'features/support/pages/**.rb'

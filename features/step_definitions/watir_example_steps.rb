@@ -4,7 +4,7 @@ Given(/^I am on WatirExamplePage$/) do
 end
 
 When(/^I fill the form$/) do
-  @watir_example_page.fill_form()
+  @watir_example_page.fill_form
 end
 
 When(/^I click on submit$/) do
